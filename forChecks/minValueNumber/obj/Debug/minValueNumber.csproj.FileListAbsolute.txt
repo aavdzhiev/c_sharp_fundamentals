@@ -1,0 +1,5 @@
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\minValueNumber\bin\Debug\minValueNumber.exe.config
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\minValueNumber\bin\Debug\minValueNumber.exe
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\minValueNumber\bin\Debug\minValueNumber.pdb
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\minValueNumber\obj\Debug\minValueNumber.exe
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\minValueNumber\obj\Debug\minValueNumber.pdb

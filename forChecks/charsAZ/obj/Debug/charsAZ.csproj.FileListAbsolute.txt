@@ -1,0 +1,6 @@
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\charsAZ\bin\Debug\charsAZ.exe.config
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\charsAZ\bin\Debug\charsAZ.exe
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\charsAZ\bin\Debug\charsAZ.pdb
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\charsAZ\obj\Debug\charsAZ.csprojResolveAssemblyReference.cache
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\charsAZ\obj\Debug\charsAZ.exe
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\charsAZ\obj\Debug\charsAZ.pdb

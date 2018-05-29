@@ -1,0 +1,6 @@
+C:\Users\komi\Documents\Visual Studio 2015\Projects\ComplexIFs\operations\bin\Debug\operations.exe.config
+C:\Users\komi\Documents\Visual Studio 2015\Projects\ComplexIFs\operations\obj\Debug\operations.csprojResolveAssemblyReference.cache
+C:\Users\komi\Documents\Visual Studio 2015\Projects\ComplexIFs\operations\bin\Debug\operations.exe
+C:\Users\komi\Documents\Visual Studio 2015\Projects\ComplexIFs\operations\bin\Debug\operations.pdb
+C:\Users\komi\Documents\Visual Studio 2015\Projects\ComplexIFs\operations\obj\Debug\operations.exe
+C:\Users\komi\Documents\Visual Studio 2015\Projects\ComplexIFs\operations\obj\Debug\operations.pdb

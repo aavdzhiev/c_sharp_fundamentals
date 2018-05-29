@@ -1,0 +1,6 @@
+C:\Users\komi\Documents\Visual Studio 2015\Projects\forChecks\divisionWithoutRemainder\bin\Debug\divisionWithoutRemainder.exe.config
+C:\Users\komi\Documents\Visual Studio 2015\Projects\forChecks\divisionWithoutRemainder\obj\Debug\divisionWithoutRemainder.csprojResolveAssemblyReference.cache
+C:\Users\komi\Documents\Visual Studio 2015\Projects\forChecks\divisionWithoutRemainder\bin\Debug\divisionWithoutRemainder.exe
+C:\Users\komi\Documents\Visual Studio 2015\Projects\forChecks\divisionWithoutRemainder\bin\Debug\divisionWithoutRemainder.pdb
+C:\Users\komi\Documents\Visual Studio 2015\Projects\forChecks\divisionWithoutRemainder\obj\Debug\divisionWithoutRemainder.exe
+C:\Users\komi\Documents\Visual Studio 2015\Projects\forChecks\divisionWithoutRemainder\obj\Debug\divisionWithoutRemainder.pdb

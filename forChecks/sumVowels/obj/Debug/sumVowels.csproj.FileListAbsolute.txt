@@ -1,0 +1,6 @@
+C:\Users\komi\Documents\Visual Studio 2015\Projects\forChecks\sumVowels\bin\Debug\sumVowels.exe.config
+C:\Users\komi\Documents\Visual Studio 2015\Projects\forChecks\sumVowels\bin\Debug\sumVowels.exe
+C:\Users\komi\Documents\Visual Studio 2015\Projects\forChecks\sumVowels\bin\Debug\sumVowels.pdb
+C:\Users\komi\Documents\Visual Studio 2015\Projects\forChecks\sumVowels\obj\Debug\sumVowels.csprojResolveAssemblyReference.cache
+C:\Users\komi\Documents\Visual Studio 2015\Projects\forChecks\sumVowels\obj\Debug\sumVowels.exe
+C:\Users\komi\Documents\Visual Studio 2015\Projects\forChecks\sumVowels\obj\Debug\sumVowels.pdb

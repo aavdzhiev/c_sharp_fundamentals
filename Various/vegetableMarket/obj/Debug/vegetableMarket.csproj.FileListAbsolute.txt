@@ -1,0 +1,6 @@
+c:\users\komi\documents\visual studio 2015\Projects\Various\vegetableMarket\bin\Debug\vegetableMarket.exe.config
+c:\users\komi\documents\visual studio 2015\Projects\Various\vegetableMarket\bin\Debug\vegetableMarket.exe
+c:\users\komi\documents\visual studio 2015\Projects\Various\vegetableMarket\bin\Debug\vegetableMarket.pdb
+c:\users\komi\documents\visual studio 2015\Projects\Various\vegetableMarket\obj\Debug\vegetableMarket.csprojResolveAssemblyReference.cache
+c:\users\komi\documents\visual studio 2015\Projects\Various\vegetableMarket\obj\Debug\vegetableMarket.exe
+c:\users\komi\documents\visual studio 2015\Projects\Various\vegetableMarket\obj\Debug\vegetableMarket.pdb

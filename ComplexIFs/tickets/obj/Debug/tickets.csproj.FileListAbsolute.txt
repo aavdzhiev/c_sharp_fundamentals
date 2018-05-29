@@ -1,0 +1,6 @@
+C:\Users\komi\Documents\Visual Studio 2015\Projects\ComplexIFs\tickets\bin\Debug\tickets.exe.config
+C:\Users\komi\Documents\Visual Studio 2015\Projects\ComplexIFs\tickets\obj\Debug\tickets.csprojResolveAssemblyReference.cache
+C:\Users\komi\Documents\Visual Studio 2015\Projects\ComplexIFs\tickets\bin\Debug\tickets.exe
+C:\Users\komi\Documents\Visual Studio 2015\Projects\ComplexIFs\tickets\bin\Debug\tickets.pdb
+C:\Users\komi\Documents\Visual Studio 2015\Projects\ComplexIFs\tickets\obj\Debug\tickets.exe
+C:\Users\komi\Documents\Visual Studio 2015\Projects\ComplexIFs\tickets\obj\Debug\tickets.pdb

@@ -1,0 +1,6 @@
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\rectangle10x10\bin\Debug\rectangle10x10.exe.config
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\rectangle10x10\obj\Debug\rectangle10x10.csprojResolveAssemblyReference.cache
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\rectangle10x10\bin\Debug\rectangle10x10.exe
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\rectangle10x10\bin\Debug\rectangle10x10.pdb
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\rectangle10x10\obj\Debug\rectangle10x10.exe
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\rectangle10x10\obj\Debug\rectangle10x10.pdb

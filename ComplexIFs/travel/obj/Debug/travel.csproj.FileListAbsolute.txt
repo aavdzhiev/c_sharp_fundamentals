@@ -1,0 +1,6 @@
+c:\users\komi\documents\visual studio 2015\Projects\ComplexIFs\travel\bin\Debug\travel.exe.config
+c:\users\komi\documents\visual studio 2015\Projects\ComplexIFs\travel\bin\Debug\travel.exe
+c:\users\komi\documents\visual studio 2015\Projects\ComplexIFs\travel\bin\Debug\travel.pdb
+c:\users\komi\documents\visual studio 2015\Projects\ComplexIFs\travel\obj\Debug\travel.exe
+c:\users\komi\documents\visual studio 2015\Projects\ComplexIFs\travel\obj\Debug\travel.pdb
+c:\users\komi\documents\visual studio 2015\Projects\ComplexIFs\travel\obj\Debug\travel.csprojResolveAssemblyReference.cache

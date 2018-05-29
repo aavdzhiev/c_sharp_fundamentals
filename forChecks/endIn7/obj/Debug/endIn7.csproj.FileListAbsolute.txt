@@ -1,0 +1,6 @@
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\endIn7\bin\Debug\endIn7.exe.config
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\endIn7\bin\Debug\endIn7.exe
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\endIn7\bin\Debug\endIn7.pdb
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\endIn7\obj\Debug\endIn7.csprojResolveAssemblyReference.cache
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\endIn7\obj\Debug\endIn7.exe
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\endIn7\obj\Debug\endIn7.pdb

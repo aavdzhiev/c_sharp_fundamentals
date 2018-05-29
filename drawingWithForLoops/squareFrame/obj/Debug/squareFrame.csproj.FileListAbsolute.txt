@@ -1,0 +1,6 @@
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\squareFrame\bin\Debug\squareFrame.exe.config
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\squareFrame\bin\Debug\squareFrame.exe
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\squareFrame\bin\Debug\squareFrame.pdb
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\squareFrame\obj\Debug\squareFrame.csprojResolveAssemblyReference.cache
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\squareFrame\obj\Debug\squareFrame.exe
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\squareFrame\obj\Debug\squareFrame.pdb

@@ -1,0 +1,6 @@
+c:\users\komi\documents\visual studio 2015\Projects\ComplexIFs\exam\bin\Debug\exam.exe.config
+c:\users\komi\documents\visual studio 2015\Projects\ComplexIFs\exam\bin\Debug\exam.exe
+c:\users\komi\documents\visual studio 2015\Projects\ComplexIFs\exam\bin\Debug\exam.pdb
+c:\users\komi\documents\visual studio 2015\Projects\ComplexIFs\exam\obj\Debug\exam.csprojResolveAssemblyReference.cache
+c:\users\komi\documents\visual studio 2015\Projects\ComplexIFs\exam\obj\Debug\exam.exe
+c:\users\komi\documents\visual studio 2015\Projects\ComplexIFs\exam\obj\Debug\exam.pdb

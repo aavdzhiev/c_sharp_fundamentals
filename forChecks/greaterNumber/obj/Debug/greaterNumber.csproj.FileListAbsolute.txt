@@ -1,0 +1,6 @@
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\greaterNumber\bin\Debug\greaterNumber.exe.config
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\greaterNumber\bin\Debug\greaterNumber.exe
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\greaterNumber\bin\Debug\greaterNumber.pdb
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\greaterNumber\obj\Debug\greaterNumber.csprojResolveAssemblyReference.cache
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\greaterNumber\obj\Debug\greaterNumber.exe
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\greaterNumber\obj\Debug\greaterNumber.pdb

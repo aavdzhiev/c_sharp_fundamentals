@@ -1,0 +1,6 @@
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\compareLeftRight\bin\Debug\compareLeftRight.exe.config
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\compareLeftRight\obj\Debug\compareLeftRight.csprojResolveAssemblyReference.cache
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\compareLeftRight\bin\Debug\compareLeftRight.exe
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\compareLeftRight\bin\Debug\compareLeftRight.pdb
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\compareLeftRight\obj\Debug\compareLeftRight.exe
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\compareLeftRight\obj\Debug\compareLeftRight.pdb

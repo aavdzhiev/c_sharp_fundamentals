@@ -1,0 +1,6 @@
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\nTimesN\bin\Debug\nTimesN.exe.config
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\nTimesN\bin\Debug\nTimesN.exe
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\nTimesN\bin\Debug\nTimesN.pdb
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\nTimesN\obj\Debug\nTimesN.csprojResolveAssemblyReference.cache
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\nTimesN\obj\Debug\nTimesN.exe
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\nTimesN\obj\Debug\nTimesN.pdb

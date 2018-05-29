@@ -1,0 +1,5 @@
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\Rhombus\bin\Debug\Rhombus.exe.config
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\Rhombus\bin\Debug\Rhombus.exe
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\Rhombus\bin\Debug\Rhombus.pdb
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\Rhombus\obj\Debug\Rhombus.exe
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\Rhombus\obj\Debug\Rhombus.pdb

@@ -1,0 +1,6 @@
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\squareWithSpaces\bin\Debug\squareWithSpaces.exe.config
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\squareWithSpaces\bin\Debug\squareWithSpaces.exe
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\squareWithSpaces\bin\Debug\squareWithSpaces.pdb
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\squareWithSpaces\obj\Debug\squareWithSpaces.csprojResolveAssemblyReference.cache
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\squareWithSpaces\obj\Debug\squareWithSpaces.exe
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\squareWithSpaces\obj\Debug\squareWithSpaces.pdb

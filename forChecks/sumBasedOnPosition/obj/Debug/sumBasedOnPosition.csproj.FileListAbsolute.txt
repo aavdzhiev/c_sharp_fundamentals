@@ -1,0 +1,6 @@
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\sumBasedOnPosition\bin\Debug\sumBasedOnPosition.exe.config
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\sumBasedOnPosition\bin\Debug\sumBasedOnPosition.exe
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\sumBasedOnPosition\bin\Debug\sumBasedOnPosition.pdb
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\sumBasedOnPosition\obj\Debug\sumBasedOnPosition.csprojResolveAssemblyReference.cache
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\sumBasedOnPosition\obj\Debug\sumBasedOnPosition.exe
+c:\users\komi\documents\visual studio 2015\Projects\forChecks\sumBasedOnPosition\obj\Debug\sumBasedOnPosition.pdb

@@ -1,0 +1,5 @@
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\triangle\bin\Debug\triangle.exe.config
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\triangle\bin\Debug\triangle.exe
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\triangle\bin\Debug\triangle.pdb
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\triangle\obj\Debug\triangle.exe
+c:\users\komi\documents\visual studio 2015\Projects\drawingWithForLoops\triangle\obj\Debug\triangle.pdb
