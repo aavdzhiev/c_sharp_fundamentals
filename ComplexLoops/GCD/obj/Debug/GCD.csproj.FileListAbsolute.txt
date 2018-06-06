@@ -1,0 +1,6 @@
+c:\users\komi\documents\visual studio 2015\Projects\ComplexLoops\GCD\bin\Debug\GCD.exe.config
+c:\users\komi\documents\visual studio 2015\Projects\ComplexLoops\GCD\bin\Debug\GCD.exe
+c:\users\komi\documents\visual studio 2015\Projects\ComplexLoops\GCD\bin\Debug\GCD.pdb
+c:\users\komi\documents\visual studio 2015\Projects\ComplexLoops\GCD\obj\Debug\GCD.csprojResolveAssemblyReference.cache
+c:\users\komi\documents\visual studio 2015\Projects\ComplexLoops\GCD\obj\Debug\GCD.exe
+c:\users\komi\documents\visual studio 2015\Projects\ComplexLoops\GCD\obj\Debug\GCD.pdb

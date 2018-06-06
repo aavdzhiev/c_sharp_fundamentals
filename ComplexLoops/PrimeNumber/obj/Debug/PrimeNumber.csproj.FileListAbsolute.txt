@@ -1,0 +1,6 @@
+c:\users\komi\documents\visual studio 2015\Projects\ComplexLoops\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+c:\users\komi\documents\visual studio 2015\Projects\ComplexLoops\PrimeNumber\bin\Debug\PrimeNumber.exe
+c:\users\komi\documents\visual studio 2015\Projects\ComplexLoops\PrimeNumber\bin\Debug\PrimeNumber.pdb
+c:\users\komi\documents\visual studio 2015\Projects\ComplexLoops\PrimeNumber\obj\Debug\PrimeNumber.csprojResolveAssemblyReference.cache
+c:\users\komi\documents\visual studio 2015\Projects\ComplexLoops\PrimeNumber\obj\Debug\PrimeNumber.exe
+c:\users\komi\documents\visual studio 2015\Projects\ComplexLoops\PrimeNumber\obj\Debug\PrimeNumber.pdb

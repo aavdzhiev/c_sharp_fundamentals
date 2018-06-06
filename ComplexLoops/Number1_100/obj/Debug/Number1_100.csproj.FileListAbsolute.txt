@@ -1,0 +1,6 @@
+c:\users\komi\documents\visual studio 2015\Projects\ComplexLoops\Number1_100\bin\Debug\Number1_100.exe.config
+c:\users\komi\documents\visual studio 2015\Projects\ComplexLoops\Number1_100\bin\Debug\Number1_100.exe
+c:\users\komi\documents\visual studio 2015\Projects\ComplexLoops\Number1_100\bin\Debug\Number1_100.pdb
+c:\users\komi\documents\visual studio 2015\Projects\ComplexLoops\Number1_100\obj\Debug\Number1_100.csprojResolveAssemblyReference.cache
+c:\users\komi\documents\visual studio 2015\Projects\ComplexLoops\Number1_100\obj\Debug\Number1_100.exe
+c:\users\komi\documents\visual studio 2015\Projects\ComplexLoops\Number1_100\obj\Debug\Number1_100.pdb
